@@ -1,0 +1,29 @@
+.green{
+
+background-color: green;
+}
+.red{
+
+background-color: red;
+}
+p
+{
+	color: white;
+}
+.H1{
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	width: 100%;
+}
+.H2{
+	color: white;
+}
+.img{
+	width: 100%;
+}
+.ATA{
+	width: 100%;
+}
+body {
+	background-image: url("http://www.hdwallpaperspulse.com/wp-content/uploads/2016/09/21/medium-golden-brown-wood-texture.jpg");
+}

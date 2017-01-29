@@ -1,0 +1,83 @@
+.TT {
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 55px;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+.IMG {
+	margin-right: 10px;
+	padding-right: 50px;
+	width: 85%;
+
+} 
+.PARAGRAPH {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 35px;
+	padding-top: 15px;
+}
+.ROW1 {
+	border-bottom: solid;
+	border-bottom-width: .5px;
+}
+.ROW2 {
+	padding-top: 30px;
+	border-bottom: solid;
+	border-bottom-width: .5px;
+	padding-bottom: 20px;
+}
+.ROW4 {
+	border-bottom: solid;
+	border-bottom-width: .5px;
+}
+.LND {
+	width: 100%;
+	padding-top: 30px;
+	height: 300px;
+}
+.PRS {
+	width: 100%;
+	padding-top: 30px;
+		height: 300px;
+}
+.NY {
+	width: 100%;
+	padding-top: 30px;
+		height: 300px;
+}
+
+ul {
+	font-size: 25px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+li {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+}
+body {
+	background-color: #FBF3DE;
+}
+.TXT {
+	border-bottom: 0.5px black solid;
+}
+.H1 {
+	text-align: center;
+	border-bottom: 1px black dashed;
+	border-spacing: 3px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 35px;
+}
+.H2 {
+	text-align: center;
+	border-bottom: 1px black dashed;
+	border-spacing: 3px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 35px;
+}
+.H3 {
+	text-align: center;
+	border-bottom: 1px black dashed;
+	border-spacing: 3px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 35px;
+}
